@@ -1,4 +1,4 @@
-package com.zhuanzhuan.依赖注入;
+package com.zhuanzhuan._01依赖注入;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
