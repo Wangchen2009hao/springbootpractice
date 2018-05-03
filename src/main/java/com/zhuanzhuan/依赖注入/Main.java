@@ -1,4 +1,4 @@
-package com.zhuanzhuan.autowired;
+package com.zhuanzhuan.依赖注入;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
