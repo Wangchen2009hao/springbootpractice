@@ -1,4 +1,4 @@
-package com.zhuanzhuan._02Java配置;
+package com.zhuanzhuan._002Java配置;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

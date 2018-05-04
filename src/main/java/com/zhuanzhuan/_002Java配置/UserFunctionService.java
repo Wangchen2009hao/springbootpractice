@@ -1,4 +1,4 @@
-package com.zhuanzhuan._02Java配置;
+package com.zhuanzhuan._002Java配置;
 
 // 注意注意，这里没有注解
 //@Service
