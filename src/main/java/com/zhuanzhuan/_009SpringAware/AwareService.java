@@ -1,4 +1,4 @@
-package com.zhuanzhuan.aware;
+package com.zhuanzhuan._009SpringAware;
 
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.BeanNameAware;

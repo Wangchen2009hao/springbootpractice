@@ -1,4 +1,4 @@
-package com.zhuanzhuan.aware;
+package com.zhuanzhuan._009SpringAware;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
