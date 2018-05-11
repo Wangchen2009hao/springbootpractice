@@ -1,4 +1,4 @@
-package com.zhuanzhuan.taskexecutor;
+package com.zhuanzhuan._010多线程;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -10,6 +10,6 @@ import org.springframework.scheduling.annotation.EnableAsync;
  */
 @Configuration
 @EnableAsync
-@ComponentScan("com.zhuanzhuan.taskexecutor")
+@ComponentScan("com.zhuanzhuan._010多线程")
 public class TaskExecutorConfig1 {
 }

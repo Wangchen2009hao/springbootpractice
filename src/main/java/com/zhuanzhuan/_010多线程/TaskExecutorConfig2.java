@@ -1,4 +1,4 @@
-package com.zhuanzhuan.taskexecutor;
+package com.zhuanzhuan._010多线程;
 
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import org.springframework.context.annotation.ComponentScan;
@@ -8,14 +8,13 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import java.util.concurrent.Executor;
-import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * @author wangchen11
  * @date 2018年01月24日 0:01
  */
 @Configuration
-@ComponentScan("com.zhuanzhuan.taskexecutor")
+@ComponentScan("com.zhuanzhuan._010多线程")
 @EnableAsync
 public class TaskExecutorConfig2 implements AsyncConfigurer{
     @Override
