@@ -10,6 +10,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  */
 @Configuration
 @ComponentScan("com.zhuanzhuan.taskScheduler")
-@EnableScheduling
+@EnableScheduling // 开启计划任务执行
 public class TaskSchedulerConfig {
 }
